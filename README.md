@@ -102,6 +102,6 @@ npm run dev
 
 ## **📬 Contact**
 
-* GitHub: [@yourusername](https://github.com/yourusername)  
-* Email: your.email@example.com
+* GitHub: [@shubhamprasad318](https://github.com/shubhamprasad318)  
+* Email: shubhamprasad3758@gmail.com
 
